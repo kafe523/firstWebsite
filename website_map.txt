@@ -1,0 +1,112 @@
+1.  是否完成 : 已完成
+
+2.  使用語法
+
+        HTML
+            link
+            section
+            div
+            span
+            h1
+            h2
+            nav
+            ul
+            ol
+            li
+            a
+            script
+            code
+            p
+            footer
+        CSS
+            var()
+            box-sizeing
+            margin
+            padding
+            background-color
+            display
+            grid-template-columns
+            max-width
+            position
+            justify-content
+            alight-items
+            color
+            font-size
+            text-decoration
+            height
+            width
+            list-style
+            transition
+            top
+            right
+            flex-direction
+            border-radius
+            animation
+            opacity
+            visibility
+            font-weight
+            left
+            float
+            cursor
+            user-select
+            scroll-behavior
+            filter
+        其他語法
+            JavaScript
+            Jquery
+
+3.  網頁導覽
+
+        HTML5
+            index.html
+            about.html
+            carrer.html
+            works.html
+            websiteMap.html
+        CSS3
+            css/main.css
+            css/navbar.css
+            css/preload.css
+        Javascript
+            js/navbar.js
+            js/preload.js
+            js/main.js
+        Jquery
+            3.6.0/jquery.min.js (Google CDN)
+            js/the_jquery.js
+        超鏈接
+            <a href="index.html" class="web-title">Web Name</a>
+            index.html
+
+            <a href="index.html">Home</a>
+            index.html
+
+            <a href="about.html">About</a>
+            about.html
+
+            <a href="carrer.html">Carrer</a>
+            carrer.html
+
+            <a href="works.html">Works</a>
+            works.html
+
+            <a href="websiteMap.html">Website Map</a>
+            websiteMap.html
+
+            <a href="https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA">YouTube</a>
+            Subaru Ch. 大空スバル
+
+            <a href="https://subaru.streamlink.to/TaiyouShoujyo"</a>
+            "太陽少女" 唱片串流頁面
+
+            <a href="https://cover.lnk.to/Pleiades"></a>
+            "ぷ・れ・あ・で・す！" 唱片串流頁面
+
+4.  
+    
+    作業系統:
+        Windows 10 Pro
+    編輯器:
+        Microsoft Visual Studio Code
+    瀏覽器:
+        Firefox 95.0+ (64-bit)
